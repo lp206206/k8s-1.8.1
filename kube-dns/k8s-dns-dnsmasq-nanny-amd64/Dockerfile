@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:v1.8.1
+FROM gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.5
 MAINTAINER lp206206
